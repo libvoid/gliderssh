@@ -1,9 +1,9 @@
-# tailscale/gliderssh
+# libvoid/gliderssh
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/tailscale/gliderssh.svg)](https://pkg.go.dev/github.com/tailscale/gliderssh)
-[![Go Report Card](https://goreportcard.com/badge/github.com/tailscale/gliderssh)](https://goreportcard.com/report/github.com/tailscale/gliderssh)
+[![Go Reference](https://pkg.go.dev/badge/github.com/libvoid/gliderssh.svg)](https://pkg.go.dev/github.com/libvoid/gliderssh)
+[![Go Report Card](https://goreportcard.com/badge/github.com/libvoid/gliderssh)](https://goreportcard.com/report/github.com/libvoid/gliderssh)
 
-This is a [Tailscale](https://tailscale.com) fork of [gliderlabs/ssh](https://github.com/gliderlabs/ssh).
+This is a [libvoid](https://libvoid.com) fork of [gliderlabs/ssh](https://github.com/gliderlabs/ssh).
 
 This Go package wraps the [crypto/ssh
 package](https://pkg.go.dev/golang.org/x/crypto/ssh) with a higher-level API for
@@ -17,7 +17,7 @@ import (
     "io"
     "log"
 
-    ssh "github.com/tailscale/gliderssh"
+    ssh "github.com/libvoid/gliderssh"
 )
 
 func main() {
@@ -35,7 +35,7 @@ A bunch of great examples are in the `_examples` directory.
 
 ## Usage
 
-[See Go reference.](https://pkg.go.dev/github.com/tailscale/gliderssh)
+[See Go reference.](https://pkg.go.dev/github.com/libvoid/gliderssh)
 
 ## Contributing
 

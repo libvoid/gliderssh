@@ -5,7 +5,7 @@ import (
 	"log"
 	"os/exec"
 
-	"github.com/tailscale/gliderssh"
+	"github.com/libvoid/gliderssh"
 )
 
 func main() {

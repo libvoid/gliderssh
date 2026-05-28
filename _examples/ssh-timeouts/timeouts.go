@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/tailscale/gliderssh"
+	"github.com/libvoid/gliderssh"
 )
 
 var (

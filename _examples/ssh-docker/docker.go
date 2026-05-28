@@ -10,7 +10,7 @@ import (
 	"github.com/docker/docker/api/types/container"
 	"github.com/docker/docker/client"
 	"github.com/docker/docker/pkg/stdcopy"
-	"github.com/tailscale/gliderssh"
+	"github.com/libvoid/gliderssh"
 )
 
 func main() {

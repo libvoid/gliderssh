@@ -7,7 +7,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/tailscale/gliderssh/shlex"
+	"github.com/libvoid/gliderssh/shlex"
 
 	gossh "golang.org/x/crypto/ssh"
 )

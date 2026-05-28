@@ -5,7 +5,7 @@ Run docker containers over SSH.  You can even pipe things into them too!
 We're going to build JQ as an SSH service using the gliderssh package.  If you haven't installed Go and docker yet, see the docs for help getting your environment setup.
 
 Install the gliderssh package  
-`go get github.com/tailscale/gliderssh`
+`go get github.com/libvoid/gliderssh`
 
 Build the example docker container with  
 `docker build --rm -t jq .` 

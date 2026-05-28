@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/tailscale/gliderssh/shlex"
+	"github.com/libvoid/gliderssh/shlex"
 )
 
 func TestSplitPosix(t *testing.T) {
